@@ -1,0 +1,85 @@
+/* CSS Document */
+
+body {
+	padding-top: 60px;
+}
+
+h1 {
+	border-bottom:1px solid #CCCCCC;
+	margin-bottom:10px;
+}
+
+p {
+	text-align:justify;
+}
+
+.main_page {
+	background-color: whiteSmoke;
+	margin-bottom: 30px;
+	padding:20px;
+	border-radius: 10px;
+}
+
+.logo {
+	text-align:center;
+	margin-bottom: 10px;
+}
+
+.news {
+	border:1px solid #CCCCCC;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 15px;
+}
+
+.news .hide-news {
+	display: none;
+}
+
+.news .expanded .show-news {
+	display: none;
+}
+
+.news .expanded .hide-news {
+	display: inline;
+}
+
+.accordion-heading {
+	background-color: #FFFFFF;	
+}
+
+.accordion-body {
+	background-color: #FAFAFA;	
+}
+
+.logo-association  {
+	float: right;
+	margin: 15px;
+}
+
+@media (max-width: 979px) {
+	.hide-smartphone {
+		display: none;
+	}
+	
+	.news {
+		margin: 0px;
+		margin-bottom: 15px;
+	}
+}
+
+p.center {
+	text-align: center;
+}
+
+img.left, img.right {
+	margin: 10px;
+}
+
+img.left {
+	float: left;
+}
+
+img.right {
+	float: right;
+}
