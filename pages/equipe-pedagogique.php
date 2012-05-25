@@ -37,11 +37,11 @@ ARIBAUD, C. (2003). « L’étoffe des solennités en service dans les églises 
 						"status" => "MCF",
 						"mail" => "aubry@univ-tlse2.fr  ",
 						"team" => "FRAMESPA",
-						"research" => "<p>
+						"research" => "<ul>
 
 <li>Les pratiques artistiques après 1945, en particulier l'art anglais, le pictural dans sa diversité, et les
-problématiques de l'image contemporaine - à partir, notamment, de la notion d'« hybridation » des médiums.</p>",
-						"publication" => "<p>
+problématiques de l'image contemporaine - à partir, notamment, de la notion d'« hybridation » des médiums.</ul>",
+						"publication" => "<ul><p>
 <li>« Produire une ambivalence: la résolution du conflit abstraction/figuration dans les « Irish Paintings » (1983-1993) de Richard Hamilton », Art Présence, n°53, janvier-février-mars 2005, p. 2-13.
 </li>
 <li>
@@ -50,47 +50,17 @@ problématiques de l'image contemporaine - à partir, notamment, de la notion d'
 <li>
 « Cherchez l'erreur. De l'autoréférentialité chez Richard Hamilton », Revue d'Esthétique, n°39, 2001, p. 153-155.
 </li>
-</p>", 
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de FRAMESPA</p>",
 						"link" => "http://framespa.univ-tlse2.fr/actualites/pratique/annuaire/aubry-brigitte-68338.kjsp?RH=annuaire_framespa");
 	
-	$barbaza_michel = array("name" => "BARBAZA",
-						"firstname" => "Michel",
-						"status" => "PR",
-						"mail" => " barbaza@univ-tlse2.fr  ",
-						"team" => "TRACES",
-						"research" => "<p>
-
-<li>
-Cultures et sociétés du Paléolithique supérieur européen
-</li>
-<li>
-Art préhistorique
-</li>
-<li>
-Arts rupestres dans le monde.
-</li>
-</p>",
-						"publication" => "<p>
-<li>
-Les civilisations postglaciaires. La vie dans la grande forêt tempérée. Coll. Histoire de la France Préhistorique, La Maison des Roches (Ed .), 125 p.
-</li>
-<li>
-Thèmes iconographiques et structure de représentation dans l’art rupestre protohistorique du Sahel. IN : Arts et symboles du Néolithique à la Protohistoire (J. Guilaine ed.). Editions Errance, Paris,  (avec la collaboration de M. Jarry).
-</li>
-<li>
-L’art rupestre du Sahel burkinabé. Markoye ou la rencontre de deux mondes. Editions Recherches sur les Civilisations. Association pour la diffusion de la pensée française. Ministère des Affaires Etrangères. Paris.
-</li>
-</p>", 
-						"linkLabel" => "<p>Fiche détaillée sur le site de TRACES</p>",
-						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-2-centre-de-recherche-et-d-etude-pour-l-art-prehistorique-creap-/barbaza-michel-47632.kjsp?RH=ACCUEIL_TRACES");
 						
 	$barlangue_luce = array("name" => "BARLANGUE",
 						"firstname" => "Luce",
 						"status" => "PR",
 						"mail" => "luce.barlangue@wanadoo.fr",
 						"team" => "FRAMESPA",
-						"research" => "<p>
+						"research" => "<ul>
 <li>
 L'art en province 1880-1950 : monographies, vie institutionnelle, etc.
 </li>
@@ -103,8 +73,8 @@ Patrimoine, identité culturelle, sociabilité : le Midi de la France 1870-1970.
 <li>
 Expertise en arts décoratifs, métiers du marché de l’art
 </li>
-</p>",
-						"publication" => "<p>
+</ul>",
+						"publication" => "<ul><p>
 <li>
 “Une école toulousaine ? 1888-1914 : hypothèses, vérifications, conclusions”, dans Arts et identités régionales, Actes des journées du Centre François-Georges Pariset, Bordeaux, 1998, pp. 31-47.
 </li>
@@ -114,6 +84,7 @@ Expertise en arts décoratifs, métiers du marché de l’art
 <li>
 “De l’utilisation des adjectifs toulousain, méridional, latin, occitan, ou comment valoriser les arts plastiques locaux par une typologie apologétique : l’exemple de Toulouse, 1888-1939”, dans Terres et hommes du Sud, Actes du CTHS, Paris, 2003.
 </li>
+</ul>
 </p>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de FRAMESPA</p>",
 						"link" => "http://framespa.univ-tlse2.fr/actualites/pratique/annuaire/barlangue-luce-39561.kjsp?RH=annuaire_framespa");
@@ -124,6 +95,7 @@ Expertise en arts décoratifs, métiers du marché de l’art
 						"mail" => "francois.bon@univ-tlse2.fr",
 						"team" => "TRACES",
 						"research" => "<p>
+<ul>
 <li>
 Avènement du Paléolithique supérieur en Europe occidentale
 </li>
@@ -136,8 +108,9 @@ Histoire de la préhistoire
 <li>
 technologie lithique. 
 </li>
+</ul>
 </p>",
-						"publication" => "<p>
+						"publication" => "<ul><p>
 <li>
 L’Aurignacien entre Mer et Océan. Réflexion sur l’unité des phases anciennes de l’Aurignacien dans le sud de la France. Mémoire de la Société Préhistorique Française, XXIX, 2002, 253 p.
 </li>
@@ -150,7 +123,8 @@ L’équipement lithique des Aurignaciens à la Tuto de Camalhot (Saint-Jean-de-
 <li>
 Territoires, déplacements, mobilité, échanges durant la Préhistoire. Ed. CTHS, Actes du 126e Congrès National des Sociétés Historiques et Scientifiques, Toulouse, 2005, p. 173-184.
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de TRACES</p>",
 						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-1-societes-et-milieux-des-populations-de-chasseurs-cueilleurs-collecteurs/bon-francois-47310.kjsp?RH=creap");
 						
@@ -160,6 +134,7 @@ Territoires, déplacements, mobilité, échanges durant la Préhistoire. Ed. CTH
 						"mail" => "l.borau@orange.fr",
 						"team" => "ARTEHIS",
 						"research" => "<p> 
+	<ul>
 	<li>					
 Recherche sur les équipements hydrauliques romains en particulier les aqueducs (mais aussi les canalisations, les égouts, les bassins, les citernes, les fontaines, les thermes). 
 </li>
@@ -169,8 +144,9 @@ Recherche sur les équipements hydrauliques romains en particulier les aqueducs 
  <li>
  Analyse des techniques de construction de la fin de l’Age du Fer et de l’époque romaine.
 </li>
+</ul>
 </p>",
-						"publication" => "<p>
+						"publication" => "<ul><p>
 						<li>
 						BORAU L. LABAUNE, Y., MAURICE-CHABARD B. 2010 : Aqua : la gestion de l’eau à Augustodunum. Journal de l’exposition. 30 juin 2010-11 octobre 2010. Autun, Ville d’Autun, Musée Rolin, 12 p.
 </li>
@@ -182,7 +158,8 @@ BORAU L. 2009 : « L’équipement hydraulique d’Augustodunum. Nouvelle étude
 </li>
 BORAU L. 2009 : « Nouvelle étude de l’aqueduc gallo-romain de Montjeu à Augustodunum », Revue Archéologique de l’Est, 58, p. 461-476.
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de ARTEHIS</p>",
 						"link" => "http://artehis-cnrs.in2p3.fr/BORAU-Laetitia");
 						
@@ -191,7 +168,7 @@ BORAU L. 2009 : « Nouvelle étude de l’aqueduc gallo-romain de Montjeu à Aug
 						"status" => "MCF",
 						"mail" => " boube@univ-tlse2.fr ",
 						"team" => "TRACES",
-						"research" => "<p>
+						"research" => "<ul><p>
 <li>
 Antiquité, Antiquité tardive et très haut Moyen Âge (jusqu’au VIIe s), en Espagne et dans le sud-ouest  de la Gaule.
 </li>
@@ -205,8 +182,9 @@ Topographie chrétienne (IVe-VIIe s.), implantation du christianisme et occupati
 <li>
 Céramique romaine tardive d’importation (Afrique) et ses imitations locales.
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 						
 <li>
 L’urbanisme dans la province ecclésiastique de Carthaginoise de l’Antiquité tardive à la fin du royaume wisigothique (IVe-VIIIe s.), dans Famille, violence et christianisation au Moyen Âge, Cultures et civilisations médiévales, n° 31, Mélanges offerts à Michel Rouche, éd. M. Aurell /Th. Deswarte, PUPS, Paris, 2005, p. 365-376.
@@ -217,7 +195,8 @@ Un plat de sigillée africaine D à décor de colombes, découvert à Sala (Raba
 <li>
 Ouvrage collectif : Carte archéologique de Haute-Garonne (à paraître en 2007).
 </li>
-</p>", 
+</p>
+</ul>", 
 					 
 						"linkLabel" => "<p>Fiche détaillée sur le site de TRACES</p>",
 						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-7-terrae-archeologie-et-histoire-des-societes-medievales-meridionales/boube-emmanuelle-48566.kjsp");
@@ -229,8 +208,8 @@ Ouvrage collectif : Carte archéologique de Haute-Garonne (à paraître en 2007)
 						"status" => "PR",
 						"mail" => "alain.bouet@univ-tlse2.fr ",
 						"team" => "FRAMESPA",
-						"research" => "<p>La thématique des travaux scientifiques menés depuis la thèse de doctorat est celle de l'architecture, qu'elle soit monumentale ou liée à l'habitat. Mon intérêt se porte particulièrement sur l'organisation des villes et de leurs centres monumentaux. Ainsi a été développée une réflexion sur plusieurs types d'édifices : les thermes bien évidemment, mais aussi le campus, fort modestement appréhendé dans les provinces occidentales, les sièges d'association ou, plus récemment, les fontaines et les latrines. Parallèlement, j'ai développé l'important chantier-école de l'Université de Bordeaux III à Barzan (Charente-Maritime) (1998-2009) qui a accueilli jusqu'à cinquante étudiants.</p>",
-						"publication" => "<p>
+						"research" => "<ul><p><li>La thématique des travaux scientifiques menés depuis la thèse de doctorat est celle de l'architecture, qu'elle soit monumentale ou liée à l'habitat. Mon intérêt se porte particulièrement sur l'organisation des villes et de leurs centres monumentaux. Ainsi a été développée une réflexion sur plusieurs types d'édifices : les thermes bien évidemment, mais aussi le campus, fort modestement appréhendé dans les provinces occidentales, les sièges d'association ou, plus récemment, les fontaines et les latrines. Parallèlement, j'ai développé l'important chantier-école de l'Université de Bordeaux III à Barzan (Charente-Maritime) (1998-2009) qui a accueilli jusqu'à cinquante étudiants.</li></p></ul>",
+						"publication" => "<ul><p>
 <li>
 Bouet, A., 2010, De la diversité urbaine : des hommes et des dieux sur les pentes de Puymin à Vasio Vocontiorum, Revue Archéologique, 2010, 3-46.
 </li>
@@ -245,7 +224,8 @@ Bouet, A., Saragoza, Fl., Temples affrontés d'époque romaine : origine et avat
 Bouet, A., «Les Santons et le commerce de la laine », et «L'entrepôt de Barzan »  in : La voie de Rome, Entre Méditerranée et Atlantique, Catalogue de l'exposition, Bordeaux, 2008, 94 et 119.
 </li>
 						
-				</p>", 
+				</p>
+				</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de TRACES</p>",
 						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-6-villes-et-agglomerations-terroirs-et-territoires/bouet-alain-50117.kjsp?RH=archeologie_traces");
 						
@@ -254,9 +234,14 @@ Bouet, A., «Les Santons et le commerce de la laine », et «L'entrepôt de Barz
 						"status" => "ATER",
 						"mail" => "ca.bourdier@laposte.net",
 						"team" => "TRACES",
-						"research" => "<p>Mes recherches portent sur l’art pariétal du Paléolithique supérieur européen, et tout particulièrement sur les sociétés magdaléniennes. L’art pariétal en contexte archéologique (associé à des niveaux archéologiques) en constitue l’objet d’étude privilégié. Axées sur la région Vienne-Charente-Périgord (Roc-aux-Sorciers, Chaire-à-Calvin, Reverdit, Cap-Blanc), ces recherches abordent deux problématiques principales. Une problématique culturelle vise à préciser la structuration spatio-temporelle des faciès symboliques dans cet espace. Une problématique sociologique s’intéresse à la variabilité fonctionnelle des sites ornés et à la structuration symbolique des territoires.
-Une partie de mes recherches est également consacrée aux développements méthodologiques dans l’enregistrement et le traitement des graphismes pariétaux, avec un intérêt particulier porté aux technologies 3D (Chauvet, Cussac, Roc-aux-Sorciers).</p>",
-						"publication" => "<p>
+						"research" => "<ul>
+						<li>
+						
+						<p>Mes recherches portent sur l’art pariétal du Paléolithique supérieur européen, et tout particulièrement sur les sociétés magdaléniennes. L’art pariétal en contexte archéologique (associé à des niveaux archéologiques) en constitue l’objet d’étude privilégié. Axées sur la région Vienne-Charente-Périgord (Roc-aux-Sorciers, Chaire-à-Calvin, Reverdit, Cap-Blanc), ces recherches abordent deux problématiques principales. Une problématique culturelle vise à préciser la structuration spatio-temporelle des faciès symboliques dans cet espace. Une problématique sociologique s’intéresse à la variabilité fonctionnelle des sites ornés et à la structuration symbolique des territoires.
+Une partie de mes recherches est également consacrée aux développements méthodologiques dans l’enregistrement et le traitement des graphismes pariétaux, avec un intérêt particulier porté aux technologies 3D (Chauvet, Cussac, Roc-aux-Sorciers).</p>
+</li>
+</ul>",
+						"publication" => "<ul><li><p>
 <li>
 Bourdier C., Spécificités et parenté du dispositif pariétal de l’abri Reverdit (Sergeac, Dordogne) : l’apport de l’étude des blocs ornés de la collection Delage. Paléo, 22, p. 53-68.
 </li>
@@ -267,7 +252,7 @@ Bourdier C., Le Magdalénien moyen en Poitou-Charentes : une expression symboliq
 Bourdier C., avec la collaboration de Pinçon G., Abgrall A., Huard O., Le Brun E. et Peyroux M., Histoires de bisons et de chevaux : regard sur l’évolution de la frise pariétale du Cap-Blanc (Marquay, Dordogne) à travers l’analyse du panneau de l’alcôve. Paléo, 21, p.17-38.
 </li>
 						
-						</p>", 
+						</p></ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de TRACES</p>",
 						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-2-centre-de-recherche-et-d-etude-pour-l-art-prehistorique-creap-/bourdier-camille-151899.kjsp?RH=creap");
 	
@@ -276,8 +261,8 @@ Bourdier C., avec la collaboration de Pinçon G., Abgrall A., Huard O., Le Brun 
 						"status" => "ATER",
 						"mail" => "",
 						"team" => "FRAMESPA",
-						"research" => "<p></p>",
-						"publication" => "<p></p>", 
+						"research" => "<ul><li><p></p></li></ul>",
+						"publication" => "<ul><li><p></p></li></ul>", 
 						"linkLabel" => "<p></p>",
 						"link" => "");
 						
@@ -286,8 +271,10 @@ Bourdier C., avec la collaboration de Pinçon G., Abgrall A., Huard O., Le Brun 
 						"status" => "ATER",
 						"mail" => "jessie.cauliez@univ-tlse2.fr",
 						"team" => "TRACES",
-						"research" => "<p>Mes thématiques de recherche sont orientées vers la caractérisation des sociétés néolithiques dans le bassin nord occidental de la Méditerranée. Ici, mes travaux se concentrent sur la fin de la période néolithique (3700-1900 av. n.-è.), étape qui voit le démantèlement des groupes du Néolithique moyen, puis la diffusion de la métallurgie du cuivre et enfin le développement du Campaniforme.</p>",
-						"publication" => "<p>
+						"research" => "<ul><li><p>
+						Mes thématiques de recherche sont orientées vers la caractérisation des sociétés néolithiques dans le bassin nord occidental de la Méditerranée. Ici, mes travaux se concentrent sur la fin de la période néolithique (3700-1900 av. n.-è.), étape qui voit le démantèlement des groupes du Néolithique moyen, puis la diffusion de la métallurgie du cuivre et enfin le développement du Campaniforme.
+						</p></li></ul>",
+						"publication" => "<ul><p>
 <li>
 Cauliez J. : « Restitution des aires culturelles au Néolithique final dans le sud-est de la France. Dynamiques de formation et d’évolution des styles céramiques », Gallia Préhistoire, t. 53, p. 85-202.
 </li>
@@ -295,7 +282,7 @@ Cauliez J. : « Restitution des aires culturelles au Néolithique final dans le 
 Cauliez J., Blaise E., Bressy C., Convertini F., Gilabert C., Hamon C., Lazard N., Negroni S., Ollivier V., Pellissier M., Pétrequin P., Piatscheck C., Provenzano N., Renault S. : « Le Limon-Raspail à Bédoin dans le Vaucluse et le Néolithique final de moyenne vallée du Rhône », Bulletin de la Société Préhistorique Française, t. 108, fasc. 2, p. 263-330
 </li>
 						
-					</p>", 
+					</p></ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de TRACES</p>",
 						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-3-societes-et-cultures-du-neolithique-et-du-debut-des-ages-des-metaux/cauliez-jessie-69977.kjsp?RH=neolithique_traces");
 	
@@ -325,7 +312,7 @@ Cauliez J., Blaise E., Bressy C., Convertini F., Gilabert C., Hamon C., Lazard N
 						"status" => "MCF",
 						"mail" => " virginie.czerniak@wanadoo.fr",
 						"team" => "FRAMESPA",
-						"research" => "<p>
+						"research" => "<ul><p>
 
 <li>
 Les arts de la couleur au Moyen-Âge, étude technique, stylistique et iconographique des peintures murales du Moyen-Âge central en Europe méridionale, espaces religieux et laïcs.
@@ -334,8 +321,9 @@ Les arts de la couleur au Moyen-Âge, étude technique, stylistique et iconograp
 Analyse du bâti culturel et civil conservant des décors peints.
 Recherches comparatives et associatives sur la production de peintures et de manuscrits.
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 <li>
 « Le décor peint dans l'habitat aristocratique médiéval : exemples méridionaux », L'aristocratie, les arts et l'architecture à l'époque romane, Cahiers de Saint-Michel de Cuxa, XXXVI, 2005, p.57-64.
 </li>
@@ -345,7 +333,8 @@ Recherches comparatives et associatives sur la production de peintures et de man
 <li>
 « Les sujets historiés dans les décors peints des demeures médiévales : une iconographie spécifique? », La maison au Moyen Âge dans le Midi de la France, Actes des journées d'étude de Cahors, 6-8 juillet 2006, Société Archéologique du Midi de la France, hors-série, à paraître en 2007.
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de FRAMESPA</p>",
 						"link" => "http://framespa.univ-tlse2.fr/actualites/pratique/annuaire/czerniak-virginie-40012.kjsp?RH=annuaire_framespa");									
 						
@@ -354,7 +343,7 @@ Recherches comparatives et associatives sur la production de peintures et de man
 						"status" => "PR",
 						"mail" => "adardenay@yahoo.fr ",
 						"team" => "TRACES",
-						"research" => "<p>
+						"research" => "<ul><p>
 
 <li>
 Histoire de l’art romain
@@ -362,8 +351,9 @@ Histoire de l’art romain
 <li>
 Domaines de compétences : Le décor romain, en axant la problématique sur les interactions entre sphère publique et sphère privée dans l’espace de la cité.
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 
 <li>
 La diffusion des mythes fondateurs de Rome au sein du décor architectural (sphère publique/sphère privée), Actes du colloque international de l’AIPMA, Saragosse, 25-28 septembre 2004, C. Guiral Pelegrin dir. 
@@ -374,7 +364,8 @@ Le rôle des ateliers de lampes dans la diffusion iconographique de la fuite d�
 <li>
 Les peintures murales romaines de la Place Kléber, Strasbourg, in Cahiers Alsaciens d’Archéologie, d’Art et d’Histoire, tome XLIV, 2001, p.41- 51.
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de TRACES</p>",
 						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-6-villes-et-agglomerations-terroirs-et-territoires/dardenay-alexandra-48849.kjsp?RH=ACCUEIL_TRACES");
 						
@@ -383,7 +374,7 @@ Les peintures murales romaines de la Place Kléber, Strasbourg, in Cahiers Alsac
 						"status" => "ATER",
 						"mail" => "debuiche.colin@gmail.com",
 						"team" => "FRAMESPA",
-						"research" => "<p>Dans la continuité des recherches menées en Master qui portaient sur Les ordres dans l'architecture toulousaine à la Renaissance : emplois, conceptions et représentations de 1518 à 1630, mon étude actuelle est centrée sur le foyer artistique toulousain qui rayonne à l'échelle européenne grâce à un contexte culturel et économique favorable. Fondée sur l'influence des traités sur la pratique architecturale (Sagredo, Serlio, Philibert de L'Orme), sur la participation toulousaine au débat de l'interprétation vitruvienne (l'Epitome de D. Bertin et J. Gardet) et sur des questions plus pratiques liées à l'atelier et au métier de maçon et d'architecte, cette recherche se concentre sur les transferts culturels et les différents degrés de culture savante qui nourrissent la pratique artistique de la ville. À travers le profil de certaines carrières d'architectes (Dominique Bachelier) et l'étude de sources inédites (archives, traités) c'est avant tout les liens entre la France et l'Espagne qui sont privilégiés.</p>",
+						"research" => "<ul><li><p>Dans la continuité des recherches menées en Master qui portaient sur Les ordres dans l'architecture toulousaine à la Renaissance : emplois, conceptions et représentations de 1518 à 1630, mon étude actuelle est centrée sur le foyer artistique toulousain qui rayonne à l'échelle européenne grâce à un contexte culturel et économique favorable. Fondée sur l'influence des traités sur la pratique architecturale (Sagredo, Serlio, Philibert de L'Orme), sur la participation toulousaine au débat de l'interprétation vitruvienne (l'Epitome de D. Bertin et J. Gardet) et sur des questions plus pratiques liées à l'atelier et au métier de maçon et d'architecte, cette recherche se concentre sur les transferts culturels et les différents degrés de culture savante qui nourrissent la pratique artistique de la ville. À travers le profil de certaines carrières d'architectes (Dominique Bachelier) et l'étude de sources inédites (archives, traités) c'est avant tout les liens entre la France et l'Espagne qui sont privilégiés.</p></li></ul>",
 						"publication" => "<p></p>", 
 						"linkLabel" => "<p>Fiche déaillée sur le site de FRAMESPA</p>",
 						"link" => "http://framespa.univ-tlse2.fr/actualites/divers/fiches-annuaire/debuiche-colin-57958.kjsp");
@@ -394,7 +385,7 @@ Les peintures murales romaines de la Place Kléber, Strasbourg, in Cahiers Alsac
 						"status" => "MCF",
 						"mail" => "jacques.dubois@univ-tlse2.fr ",
 						"team" => "FRAMESPA",
-						"research" => "<p>
+						"research" => "<ul><p>
 
 <li>
 Architecture du gothique tardif, religieuse et civile (apparition, développement et rayonnement en Europe et en Midi-Pyrénées en particulier)
@@ -402,8 +393,9 @@ Architecture du gothique tardif, religieuse et civile (apparition, développemen
 <li>
 Etudes des professions artistiques et de la construction, établissement de prosopographies (XIVe-milieu XVIe), comprendre les réseaux de diffusion des formes et les transferts technologiques, recherche menée conjointement à celle sur la clientèle et son rôle dans les modifications des pratiques d'atelier; chantiers de construction: financement et organisation.
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 <li>
 « L’architecture en France dans les années 1360-1420 », dans Dossiers d’Archéologie, L’architecture religieuse médiévale, art roman et art gothique, une nouvelle vision, n° 319, janv-fév 2007, p. 100-109
 </li>
@@ -421,7 +413,8 @@ Etudes des professions artistiques et de la construction, établissement de pros
 « Almenêches, l’ancienne église abbatiale Notre-Dame », dans actes du colloque de Cerisy-la-Salle, L’architecture…, vol. 2, p. 391-393
 Notre-Dame d’Alençon. Financement et reconstruction (c. 1350-c. 1540), préface A. Erlande-Brandenburg, éd. des Presses Universitaires de Rennes, coll. Art et Société, Rennes, 2000, 194 p.
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de FRAMESPA</p>",
 						"link" => "http://framespa.univ-tlse2.fr/actualites/pratique/annuaire/dubois-jacques-40005.kjsp?RH=annuaire_framespa");
 	
@@ -430,7 +423,7 @@ Notre-Dame d’Alençon. Financement et reconstruction (c. 1350-c. 1540), préfa
 						"status" => "MCF",
 						"mail" => "duhem@univ-tlse2.fr ",
 						"team" => "FRAMESPA",
-						"research" => "<p>
+						"research" => "<ul><p>
 
 <li>
 La production artistiques des paroisses rurales (France-Espagne) entre les XVIe et XVIIIe siècles.
@@ -441,8 +434,9 @@ Les arts du décor religieux: peinture, sculpture, mobilier des églises et prod
 <li>
 Domaines abordés: histoire sociale (ateliers, artistes, etc.), histoire culturelle et religieuse, échanges artistiques transfrontaliers (circulation des modèles), études iconographiques.
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 <li>
 Les sablières sculptées en Bretagne. Images, ouvriers du bois et culture paroissiale au temps de la prospérité bretonne (15e-17e s.), Rennes, Coll. Art et Société, Presses Universitaires de Rennes, 1998, 385p.
 </li>
@@ -455,7 +449,8 @@ Les formes du discours artistique au 16e siècle : la charpente sculptée de Plo
 <li>
 « Miquel Anglada, sculpteur et expert à Perpignan en 1701. L’expertise dans les métiers du bois aux  XVIIe et XVIIIe s. ». Actes des Jornades d’Història de l’art a Catalunya, L’època del Barroc i els Bonifàs, Vals, 1,2,3 Juin 2006. 
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de FRAMESPA</p>",
 						"link" => "http://framespa.univ-tlse2.fr/actualites/pratique/annuaire/duhem-sophie-24458.kjsp?RH=annuaire_framespa");
 						
@@ -464,7 +459,7 @@ Les formes du discours artistique au 16e siècle : la charpente sculptée de Plo
 						"status" => "MCF",
 						"mail" => "estellegalbois@yahoo.fr",
 						"team" => "PLH-CRATA",
-						"research" => "<p>Recherches
+						"research" => "<ul><p>
 <li>
 Histoire de l'art de l'époque gréco-romaine
 </li>
@@ -474,15 +469,17 @@ Iconographie dans le monde gréco-romain
 <li>
 Le portrait dans l'Antiquité
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 <li>
 						« Un miroir à boîte au Musée du Louvre : étude iconographique », Histoire de l'art 61, octobre 2007, p. 103-113.
 </li>
 <li>
 « Réflexions sur les codes de représentation de l'image royale à la période gréco-romaine par le biais d'une analyse du portrait miniature », dans G. Kamecke, J. Le Rider (éds) avec la collaboration d'A. Szulmajster, La Codification. Perspectives transdisciplinaires, Actes des journées d'études organisées à Paris à l'Institut national d'histoire de l'art les 8-10 juin 2006, Paris, 2007, p. 17-32.
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de PLH-CRATA</p>",
 						"link" => "http://plh.univ-tlse2.fr/accueil-plh/pratique/l-annuaire/galbois-estelle-48390.kjsp?RH=crata_PLH");					
 	
@@ -492,7 +489,7 @@ Le portrait dans l'Antiquité
 						"status" => "MCF",
 						"mail" => "florent.hautefeuille@univ-tlse2.fr  ",
 						"team" => "TRACES",
-						"research" => "<p>
+						"research" => "<ul><p>
 <li>
 Espace et société rurale au Moyen Âge
 </li>
@@ -508,8 +505,9 @@ Collaboration avec les Universités de Pau et de Géorgie (USA) sur l'étude des
 <li>
 Méthodes de traitement informatisé de données sérielles, telles que celles issues des compoix et des terriers.
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 <li>
 Publication des actes du colloque Résidences aristocratiques, résidences du pouvoir entre Loire et Pyrénées (Xe - XVe siècles), actes du colloque de Pau; 3-5 octobre 2002, 4ème supplément d'Archéologie du Midi Médiéval, CAML, 2006.
 </li>
@@ -519,7 +517,8 @@ Publication des actes du colloque Résidences aristocratiques, résidences du po
 </li>
 « Un exemple de compoix rural précoce (1451) : Mouret (Aveyron), De l’estime au cadastre en Europe (Le Moyen Age), Colloque de Paris - Bercy,11, 12 et 13 juin  2003, Comité pour l'histoire économique et financière de la France, 2006, p. 423-552.
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de TRACES</p>",
 						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-7-terrae-archeologie-et-histoire-des-societes-medievales-meridionales/hautefeuille-florent-55504.kjsp?RH=villes_traces");					
 	
@@ -529,17 +528,19 @@ Publication des actes du colloque Résidences aristocratiques, résidences du po
 						"status" => "MCF",
 						"mail" => "p.jacquet.rimassa@free.fr",
 						"team" => "PLH-CRATA",
-						"research" => "<p>
+						"research" => "<ul><p>
 
 <li>
 Iconographie des vases attiques, de Grande Grèce et de Sicile
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 <li>
 « Un essai de mise au point : la représentation de l'habitat et de l'architecture dans l'imagerie archaïque » Pallas 58 (2002), p. 117-145.
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de PLH-CRATA</p>",
 						"link" => "http://plh.univ-tlse2.fr/accueil-plh/pratique/l-annuaire/jacquet-rimassa-pascale-31471.kjsp?RH=annuaire_PLH");					
 	
@@ -549,7 +550,7 @@ Iconographie des vases attiques, de Grande Grèce et de Sicile
 						"status" => "PR",
 						"mail" => "julien.pascal.aix@wanadoo.fr",
 						"team" => "PLH-CRATA",
-						"research" => "<p>
+						"research" => "<ul><p>
 <li>
 Art religieux
 </li>
@@ -571,8 +572,9 @@ Métiers de la restauration
 <li>
 Expertise bois, marbres, art mobilier
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 <li>
 « Une description inédite des Pyrénées au XVIIIe siècle, le Mémoire sur les marbres de Marc-François de Lassus », Revue de Comminges et des Pyrénées centrales, avril-juin 2004, p. 197-234.
 </li>
@@ -581,7 +583,7 @@ Expertise bois, marbres, art mobilier
 </li>
 <li>
 Marbres, de carrières en palais. Du sang des dieux à la gloire des rois, Le bec en l’air, Manosque, 2006, 272 p., 345 ill.
-</li></p>", 
+</li></p></ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de PLH-CRATA</p>",
 						"link" => "http://plh.univ-tlse2.fr/accueil-plh/pratique/l-annuaire/julien-pascal-47793.kjsp?RH=annuaire_PLH");					
 	
@@ -591,7 +593,7 @@ Marbres, de carrières en palais. Du sang des dieux à la gloire des rois, Le be
 						"status" => "MCF",
 						"mail" => "bastien.lefebvre@univ-tlse2.fr",
 						"team" => "TRACES",
-						"research" => "<p>
+						"research" => "<ul><p>
 <li>
 Architecture résidentielle appréhendée par la fouille et l’archéologie du bâti (relevés, phasage, analyses et restitutions) 
  </li>
@@ -608,8 +610,9 @@ Formation et transformation de l’espace urbain dans le temps long
 <li>
 Analyses et modélisations des dynamiques socio-spatiales.
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 <li>
 Lefebvre Bastien. 2009, L'organisation parcellaire et la voirie du quartier canonial de la cathédrale de Tours, du XVIIe au XVIIIe siècle, Histoire & Mesure, n°XXIV-2, 2009 : 221-246.
 </li>
@@ -619,7 +622,8 @@ Lefebvre Bastien et Lavallée Marie-Hélène. 2005, Doubs. Ornans, étude de bâ
 <li>
 Lefebvre Bastien. 2004, Une maison du quartier cathédral de Tours (Indre-et-Loire) : évolution architecturale et techniques de construction, Revue archéologique du Centre de la France, Tome 43/2004 : 223-246.
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de TRACES</p>",
 						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-7-terrae-archeologie-et-histoire-des-societes-medievales-meridionales/lefebvre-bastien-55506.kjsp?RH=archeologie_traces");					
 				
@@ -629,22 +633,24 @@ Lefebvre Bastien. 2004, Une maison du quartier cathédral de Tours (Indre-et-Loi
 						"status" => "PR",
 						"mail" => "jean-marc.luce@wanadoo.fr ",
 						"team" => "PLH-CRATA",
-						"research" => "<p>
+						"research" => "<ul><p>
 <li>
 Période archaïque sous tous ses aspects, et plus particulièrement sur les sanctuaires, les villes et habitats, les modes funéraires et la céramique.
 </li>
 <li>
 Histoire de l'alimentation, questions d'esthétique
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 <li>
 L'Aire du pilier des Rhodiens (fouille 1990-1992). A la frontière du profane et du sacré. Fouilles de Delphes II.
 </li>
 <li>
 « Les trois Thries et la «colonne des danseuses» à Delphes », Pallas 57 (2001), p. 111-128.
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de PLH-CRATA</p>",
 						"link" => "http://plh.univ-tlse2.fr/accueil-plh/pratique/l-annuaire/luce-jean-marc-31443.kjsp?RH=annuaire_PLH");	
 	
@@ -654,7 +660,7 @@ L'Aire du pilier des Rhodiens (fouille 1990-1992). A la frontière du profane et
 						"status" => "MCF",
 						"mail" => " cmange@univ-tlse2.fr  ",
 						"team" => "FRAMESPA",
-						"research" => "<p>Recherches
+						"research" => "<ul><p>
 <li>
 Histoire de l'art XIXe siècle 
 </li>
@@ -686,8 +692,9 @@ Re-lecture des oeuvres d'art
 <li>
 Etude de la réception
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 
 <li>
 « L'iconographie de la Nativité au XIXe siècle », in BERTRAND Régis (dir.), La Nativité et le temps de Noël. XVIIe-XXe siècles, Publications de l'Université de Provence, décembre 2003.
@@ -698,16 +705,17 @@ Etude de la réception
 <li>
 « Hippolyte Flandrin et la filiation post-ingriste dans la Midi de la France », communication à la Société des Amis du musée Ingres, parue dans Actes du colloque international Ingres et ses élèves, Bulletin spécial : Les amis du musée Ingres, Montauban, 2000.
 </li>
-</p>", 
-						"linkLabel" => "<p></p>",
-						"link" => "");					
+</p>
+</ul>", 
+						"linkLabel" => "<p>Fiche détaillée sur le site de FRAMESPA</p>",
+						"link" => "http://framespa.univ-tlse2.fr/actualites/pratique/annuaire/mange-christian-40007.kjsp?RH=identite");					
 	
 		$milcent_pierreyves = array("name" => "MILCENT",
 						"firstname" => "Pierre Yves",
 						"status" => "MCF",
 						"mail" => "milcent@univ-tlse2.fr",
 						"team" => "TRACES",
-						"research" => "<p>
+						"research" => "<ul><p>
 <li>
 Protohistoire récente de l'Europe moyenne occidentale (âges du Bronze et du Fer)
 </li>
@@ -723,8 +731,9 @@ Echanges et modes de contact entre les cultures protohistoriques et les civilisa
 <li>
 Méthodologie en étude de la culture matérielle
 </li>
-</p>",
-						"publication" => "
+</p>
+</ul>",
+						"publication" => "<ul>
 <li>
 Statut et fonctions d'un personnage féminin hors norme. Le contexte historique. In : ROLLEY Cl. dir., La tombe princière de Vix. Paris, Picard, 2003, vol.1, p.312-366.
 </li>
@@ -733,7 +742,8 @@ Le premier âge du Fer en France centrale. Mémoire de la Société Préhistoriq
 <li>
 in J.Gomez de Soto, P.-Y. Milcent, avec la collaboration de J.-Ph Baigl, J.-M Escude-Quillet, A.Gorgues, P.Moret, Lieux de culte et pratiques cultuelles du centre de la France aux Pyrénées (Centre, Poitou-Charentes, Limousin, Aquitaine, Midi-Pyrénées). 
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de TRACES</p>",
 						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-4-protohistoire-mondes-anciens-cultures-et-societes/milcent-pierre-yves-50136.kjsp?RH=archeologie_traces");			
 						
@@ -742,7 +752,7 @@ in J.Gomez de Soto, P.-Y. Milcent, avec la collaboration de J.-Ph Baigl, J.-M Es
 						"status" => "ATER",
 						"mail" => "leo.minois@gmail.com",
 						"team" => "FRAMESPA",
-						"research" => "<p>Mes recherches actuelles, menées dans le cadre du doctorat sous la direction de M. Pascal Julien, professeur à l'UTM, portent sur la figure du roi dans l'art religieux d'Henri IV à Louis XIV. Elles s'insèrent au sein d'une période charnière concernant cette problématique, qui connut des événements aussi importants que la conversion d'Henri IV, le Vœu de Louis XIII ou la révocation de l'Édit de Nantes. Ces événements conduisirent à une redéfinition des rapports entre pouvoir et religion, catholicisme et protestantisme, aussi bien à l'intérieur des frontières du royaume de France qu'à l'extérieur. Il s'agit d'analyser de quelle manière l'art interagit avec ces bouleversements : comment l'œuvre naît-elle dans un contexte, mais comment s'insère-t-elle à son tour dans ce contexte et opère ou participe à des mutations au sein de la société dont elle fait partie ? Ce sujet interroge de manière plus générale les enjeux régissant « l'imagerie royale », les rapports entre art et pouvoir, se situant dans la continuité de mes travaux précédents dans le cadre du Master centrés sur l'étude des représentations du Vœu de Louis XIII.</p>",
+						"research" => "<ul><li><p>Mes recherches actuelles, menées dans le cadre du doctorat sous la direction de M. Pascal Julien, professeur à l'UTM, portent sur la figure du roi dans l'art religieux d'Henri IV à Louis XIV. Elles s'insèrent au sein d'une période charnière concernant cette problématique, qui connut des événements aussi importants que la conversion d'Henri IV, le Vœu de Louis XIII ou la révocation de l'Édit de Nantes. Ces événements conduisirent à une redéfinition des rapports entre pouvoir et religion, catholicisme et protestantisme, aussi bien à l'intérieur des frontières du royaume de France qu'à l'extérieur. Il s'agit d'analyser de quelle manière l'art interagit avec ces bouleversements : comment l'œuvre naît-elle dans un contexte, mais comment s'insère-t-elle à son tour dans ce contexte et opère ou participe à des mutations au sein de la société dont elle fait partie ? Ce sujet interroge de manière plus générale les enjeux régissant « l'imagerie royale », les rapports entre art et pouvoir, se situant dans la continuité de mes travaux précédents dans le cadre du Master centrés sur l'étude des représentations du Vœu de Louis XIII.</p></li></ul>",
 						"publication" => "<p></p>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de Framespa</p>",
 						"link" => "http://framespa.univ-tlse2.fr/actualites/pratique/annuaire/minois-leo-40064.kjsp");	
@@ -753,14 +763,14 @@ in J.Gomez de Soto, P.-Y. Milcent, avec la collaboration de J.-Ph Baigl, J.-M Es
 						"mail" => "emilienadal@yahoo.fr",
 						"team" => "TRACES",
 						"research" => "<p></p>",
-						"publication" => "<p>
+						"publication" => "<ul><p>
 <li>
 « Une recherche en cours : les commanditaires ecclésiastiques de manuscrits enluminés dans le Midi de la France au XIVe siècle ». Article faisant suite à l'atelier du Réseau d'Etudes médiévales (FRAMESPA) organisé en 2009 sur le thème Le livre dans la région toulousaine et ailleurs.
 </li>
 <li>
 Emilie NADAL,  « Une recherche en cours : les commanditaires ecclésiastiques de manuscrits enluminés dans le Midi de la France au XIVe siècle  », dans CASSAGNE-BROUQUET Sophie, FOURNIE Michelle (eds.), Le livre dans la région toulousaine et ailleurs au Moyen Âge, Toulouse, CNRS-Université de Toulouse le Mirail, 2010, p.153-168.
 </li>	
-					</p>", 
+					</p></ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de TRACES</p>",
 						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-7-terrae-archeologie-et-histoire-des-societes-medievales-meridionales/nadal-emilie-48291.kjsp?RH=archeologie_traces");	
 						
@@ -770,7 +780,7 @@ Emilie NADAL,  « Une recherche en cours : les commanditaires ecclésiastiques d
 						"status" => "PR",
 						"mail" => "j.nayrolles@free.fr  ",
 						"team" => "FRAMESPA",
-						"research" => "<p>
+						"research" => "<ul><p>
 
 <li>
 Redécouverte de l’art médiéval en France au XIXe siècle.
@@ -781,8 +791,9 @@ Théorie de l’art et historiographie du néo-classicisme au romantisme.
 <li>
 Architecture religieuse à l’époque contemporaine.
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 <li>
 “ Archéologie et rationalisme : le rétablissement des superstructures d’églises romanes au XIXe siècle ”, Revue de l’art, 121, sept. 1998.
 </li>
@@ -792,7 +803,8 @@ Architecture religieuse à l’époque contemporaine.
 <li>
 “ Midi roman ou Midi gothique : dans quel style construire les églises du XIXe siècle ? ”, Terres et hommes du Sud, congrès du CTHS, Paris, 2003.
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de FRAMESPA</p>",
 						"link" => "http://framespa.univ-tlse2.fr/actualites/pratique/annuaire/nayrolles-jean-40008.kjsp?RH=annuaire_framespa");	
 		
@@ -802,7 +814,7 @@ Architecture religieuse à l’époque contemporaine.
 						"mail" => "raphael.neuville@ac-toulouse.fr",
 						"team" => "FRAMESPA",
 						"research" => "<p></p>",
-						"publication" => "<p>
+						"publication" => "<ul><p>
 <li>
 « Musée des Abattoirs : les peintures du surréaliste Adrien Dax » dans Midi-Pyrénées patrimoine, n°26, éd. Midi Pyrénéennes, 2011, p. 100-105.
 </li>
@@ -810,7 +822,7 @@ Architecture religieuse à l’époque contemporaine.
 « Adrien Dax : l'enchanteur noir » dans Midi-Pyrénées patrimoine, n°19, éd. Midi-Pyrénéennes, 2009, p. 112.
 </li>						
 
-						</p>", 
+						</p></ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de FRAMESPA</p>",
 						"link" => "http://framespa.univ-tlse2.fr/actualites/pratique/annuaire/neuville-raphael-90622.kjsp?RH=annuaire_framespa");					
 					   
@@ -820,7 +832,7 @@ Architecture religieuse à l’époque contemporaine.
 						"status" => "PR",
 						"mail" => "nelly.pousthomis@univ-tlse2.fr",
 						"team" => "TRACES",
-						"research" => "<p>
+						"research" => "<ul><p>
 <li>
 Architecture et sculpture romanes
 </li>
@@ -838,8 +850,9 @@ occupation du sol et peuplement
 Morphogénèse et évolution des bourgs d'origine monastique en Midi toulousain
 pluridisciplinarité, croisement des méthodes et des données entre histoire, histoire de l'art et archéologie.
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 <li>
 « Le langage des pierres : l’iconographie des portails romans des Sept Vallées (Hautes-Pyrénées) », actes de la Table ronde sur « Dissidences religieuses et sorcellerie : une spécificité montagnarde ? », 2e journée préparatoire au colloque Religion et montagnes du 30 mai au 1er juin 2002, Dissidences religieuses et sorcellerie, Heresis, n°39, 2003.
 </li>
@@ -849,7 +862,8 @@ coordination et collaboration, « Mouret (Aveyron) : un castrum, des châteaux �
 <li>
 « Histoire et archéologie de la commanderie–Grand prieuré des hospitaliers de Saint-Jean à Toulouse : état de la recherche », Les Ordres militaires dans le Midi (XIIe-XIV siècle), Cahiers de Fanjeaux n°41, Toulouse, Privat, 2006, p. 239-264
 </li>
-</p>", 
+</p>
+</ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de TRACES</p>",
 						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-7-terrae-archeologie-et-histoire-des-societes-medievales-meridionales/pousthomis-nelly-55505.kjsp?RH=protohistoire_traces");	
 	    
@@ -881,8 +895,8 @@ coordination et collaboration, « Mouret (Aveyron) : un castrum, des châteaux �
 						"status" => "ATER",
 						"mail" => "celine.thiebaut@wanadoo.fr",
 						"team" => "FRAMESPA",
-						"research" => "<pMes principaux axes de recherche s’intéressent aux comportements techniques des Néandertaliens en Europe occidentale ainsi qu’à leur organisation économique et sociale. </p>",
-						"publication" => "<p>
+						"research" => "<ul><li><p>Mes principaux axes de recherche s’intéressent aux comportements techniques des Néandertaliens en Europe occidentale ainsi qu’à leur organisation économique et sociale. </p></li></ul>",
+						"publication" => "<ul><p>
 <li>
 Claud, E., Mourre, V., Thiébaut, C. et Brenet, M., « Le recyclage au Paléolithique moyen. Des bifaces et des nucléus utilisés comme percuteurs », Archéopages, 29, p. 6-15.
 </li>
@@ -890,7 +904,7 @@ Claud, E., Mourre, V., Thiébaut, C. et Brenet, M., « Le recyclage au Paléolit
 Thiébaut C, Coumont M.-P., Averbouh, A., L’approche taphonomique, une nécessité en archéologie/ The Taphonomic Approach, an Archaeological Necessity, in Thiébaut, C., Coumont, M.-P., Averbouh, A., (dir.), WS 16 Mise en commun des approches en taphonomie, Actes du Workshop 16 du XVème Congrès de l’UISPP, Lisbonne, 2006, Supplément à Paléo, 3, p. 13-28.
 </li>
 
-						</p>", 
+						</p></ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de TRACES</p>",
 						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-1-societes-et-milieux-des-populations-de-chasseurs-cueilleurs-collecteurs/thiebaut-celine-145302.kjsp?RH=Societes_traces");	
 		
@@ -899,7 +913,7 @@ Thiébaut C, Coumont M.-P., Averbouh, A., L’approche taphonomique, une nécess
 						"status" => "PR",
 						"mail" => "valdeyro@univ-tlse2.fr ",
 						"team" => "FRAMESPA",
-						"research" => "<p>
+						"research" => "<ul><p>
 <li>		
 Mésolithisation  et Mésolithique 
 </li>
@@ -915,8 +929,9 @@ Europe occidentale
 <li>
 Afrique Australe
 </li>
-</p>",
-						"publication" => "<p>
+</p>
+</ul>",
+						"publication" => "<ul><p>
 <li>
 N. Valdeyron (dir.), Le gisement mésolithique du porche ouest des Fieux (Miers, Lot) : une halte de chasse sur le causse de Gramat 		
 </li>
@@ -926,7 +941,7 @@ Fullola, J.-M., Valdeyron, N., Langlais, M. (dir.). Les Pyrénées et leurs marg
 <li>
 Pétillon, J.-M., Dias-Meirinho, M.-H., Cattelain, P., Honegger, M., Normand, C., Valdeyron, N. (coord.). Recherches sur les armatures de projectiles du Paléolithique supérieur au Néolithique (actes du colloque C83, XVe congrès de l'UISPP, Lisbonne, 4-9 septembre 2006), Palethnologie, 1.
 </li>
-				/p>", 
+				</p></ul>", 
 						"linkLabel" => "<p>Fiche détaillée sur le site de FRAMESPA</p>",
 						"link" => "http://traces.univ-tlse2.fr/accueil-traces/equipes-de-recherche/equipe-1-societes-et-milieux-des-populations-de-chasseurs-cueilleurs-collecteurs/valdeyron-nicolas-47531.kjsp");	
 			
@@ -1048,10 +1063,10 @@ Pétillon, J.-M., Dias-Meirinho, M.-H., Cattelain, P., Honegger, M., Normand, C.
 		foreach($list_profs_archeo as $titre => $specialite) {
 	?>
     	<?php display_title($titre); ?>
-        <div id="art-accordion-<?php echo($titre); ?>" class="accordion">
+        <div id="archeo-accordion-<?php echo($titre); ?>" class="accordion">
         <?php
 			foreach($specialite as $prof) {
-				display_prof("specialite-archeo", $prof, "art-accordion-".$titre);
+				display_prof("specialite-archeo", $prof, "archeo-accordion-".$titre);
 			}
 		?>
         </div>

@@ -28,6 +28,7 @@ $authorized_pages[] = "master-professionnel-patrimoine";
 $authorized_pages[] = "etudes-doctorales";
 $authorized_pages[] = "ressources-pedagogiques";
 $authorized_pages[] = "associations";
+$authorized_pages[] = "aide";
 $authorized_pages[] = "feedback";
 
 $form_pages = array();

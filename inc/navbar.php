@@ -33,9 +33,9 @@
 						<ul class="dropdown-menu">
 							<li class="nav-header">La Licence</li>
 							<li class="<?php if(is_active("licence")) {echo("active");} ?>"><a href="?page=licence">Généralités</a></li>
-							<li class="<?php if(is_active("licence1")) {echo("active");} ?>"><a href="?page=licence">Licence 1</a></li>
-							<li class="<?php if(is_active("licence2")) {echo("active");} ?>"><a href="?page=licence">Licence 2</a></li>
-							<li class="<?php if(is_active("licence3")) {echo("active");} ?>"><a href="?page=licence">Licence 3</a></li>
+							<li class="<?php if(is_active("licence1")) {echo("active");} ?>"><a href="?page=licence1">Licence 1</a></li>
+							<li class="<?php if(is_active("licence2")) {echo("active");} ?>"><a href="?page=licence2">Licence 2</a></li>
+							<li class="<?php if(is_active("licence3")) {echo("active");} ?>"><a href="?page=licence3">Licence 3</a></li>
 							<li class="<?php if(is_active("licence-bidisciplinaire")) {echo("active");} ?>"><a href="?page=licence-bidisciplinaire">Licence bi-disciplinaire</a></li>
 							<li class="<?php if(is_active("option-nonspecialiste")) {echo("active");} ?>"><a href="?page=option-nonspecialiste">Options non spécialistes</a></li>
 							<li class="divider"></li>
@@ -63,6 +63,10 @@
 							<li class="<?php if(is_active("associations")) {echo("active");} ?>"><a href="?page=associations">Associations étudiantes</a></li>
 						</ul>
 					</li>
+					
+					<li class="divider-vertical"></li>
+					
+					<li class="<?php if(is_active("aide")) {echo("active");} ?>"><a href="?page=aide">Aide</a></li>
 					
 					<li class="divider-vertical"></li>
 					

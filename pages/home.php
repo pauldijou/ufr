@@ -70,9 +70,9 @@
  <br/><br/>
  A votre service et au plaisir de vous compter parmi nos étudiant(e)s.
  <br/><br/>
- <small>C. MANGE, Directeur du département Histoire de l'Art et Archéologie</small>
+ <small>E. GALBOIS, Directrice du département Histoire de l'Art et Archéologie</small>
  <small>
- E. GALBOIS, Directrice adjointe du département Histoire de l'Art et Archéologie
+ E. BOUBE, Directrice adjointe du département Histoire de l'Art et Archéologie
  </small>
  </blockquote>
  <br style="clear:both;"/>

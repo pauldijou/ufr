@@ -36,7 +36,7 @@
 			<div class="span10 offset1">
 				<?php include("inc/alert.php"); ?>
 			
-                <div class="well <?php if(is_form()) {echo("well-form"); } ?>">
+                <div class="well clearfix <?php if(is_form()) {echo("well-form"); } ?>">
 					<?php
 						include("pages/".$page.".php");
 					?>

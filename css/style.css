@@ -9,6 +9,10 @@ h1 {
 	margin-bottom:10px;
 }
 
+h1, h2, h3, h4, h5 {
+	clear: both;
+}
+
 p {
 	text-align:justify;
 }
@@ -72,14 +76,14 @@ p.center {
 	text-align: center;
 }
 
-img.left, img.right {
-	margin: 10px;
-}
-
 img.left {
 	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
 }
 
 img.right {
 	float: right;
+	margin-left: 20px;
+	margin-bottom: 10px;
 }

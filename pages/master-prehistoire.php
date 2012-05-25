@@ -5,6 +5,7 @@
 <h1>Master Arts et cultures de la Préhistoire et de la Protohistoire : Europe, Afrique</h1>
 
 <p>
+  <img alt="" src="img/masterprehist-img-chevalconftraces.jpg" width="350px" height="auto" class="left">
   La spécialité Arts et Cultures de la Préhistoire et de la Protohistoire : Europe, Afrique s’inscrit d’emblée dans une perspective interdisciplinaire : la maîtrise de cette dimension constitue l’un des axes prioritaires de la formation envisagée. 
 </p>
 <p>

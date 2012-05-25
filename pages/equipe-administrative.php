@@ -5,7 +5,7 @@
 <dt>Directeur :
 </dt>
 <dd>
-MANGE Christian
+GALBOIS Estelle
 </dd>
 <dd>
 bureau H31
@@ -20,10 +20,13 @@ dir.histart@univ-tlse2.fr
 Directrice adjointe :
 </dt>
 <dd>
-GALBOIS Estelle
+BOUBE Emmanuelle
 </dd>
 <dd>
 bureau H031
+</dd>
+<dd>
+dir.histart@univ-tlse2.fr 
 </dd>
 </dl>
 
@@ -59,18 +62,18 @@ florence.kinach@univ-tlse2.fr
 <dd>
 <p>
 accueil du lundi au vendredi :
-de  9h30 - 12h00  et de 14h00 - 16h00
+9h30 - 12h  et 14h - 16h
 </p>
 </dd>
 </dl>
 
 <dl>
 <dt>
-Secrétariat 1er cycle - LICENCE 3 - et 2ème cycle (1ème année) - MASTER I - MASTER PRO - <br />
-Gestion de cursus Licence3 - Master1 - Master2 pro : 
+Secrétariat 1er cycle - LICENCE 3 et 2ème cycle (1ère année) - MASTER I - MASTER PRO  <br />
+Gestion de cursus Licence 3 - Master I - Master II pro : 
 </dt>
 <dd>
-LAURENT GISELE
+LAURENT Gisèle
 </dd>
 <dd>
 bureau H020
@@ -81,7 +84,7 @@ gisele.laurent@univ-tlse2.fr
 <dd>
 <p>
 accueil du lundi au vendredi :
-de  9h30 - 12h00  et de 14h00 - 16h00
+9h30 - 12h  et 14h - 16h
 </p>
 </dd> 
 </dl>
@@ -103,7 +106,7 @@ princell@univ-tlse2.fr
 <p>
  
 Accueil du lundi au vendredi : 
-de  9h30 - 12h00  et de 14h00 - 16h00
+9h30 - 12h  et 14h - 16h
 </p>
 </dd>
 </dl>

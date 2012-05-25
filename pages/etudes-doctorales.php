@@ -24,7 +24,7 @@ Un étudiant s’inscrivant en doctorat est automatiquement rattaché, par le bi
 <h2>
 L'Ecole doctorale : TESC : Temps-Espaces-Sociétés-Cultures (ED 327)
 </h2>
-<img src="../img/logo_tesc.png" width="176" height="102" />
+<img src="img/logo_tesc.png" width="176" height="102" class="right" />
 <p>
   L'École Doctorale TESC ("Temps - Espaces - Sociétés - Cultures"), ED 327, fait partie du Collège doctoral de l'Université de Toulouse (PRES), regroupe des laboratoires, en grande majorité des UMR du CNRS, dont les thématiques de recherche renvoient toutes aux sciences humaines et sociales. La fonction de l'ED est d'assurer aux doctorants une formation à la recherche par la recherche et de les aider à valoriser leur thèse en vue de leur insertion professionnelle.
 </p>

@@ -12,6 +12,9 @@
     	<a href="?page=licence3">Licence 3</a> <span class="divider">/</span>
     </li>
     <li class="<?php if(is_active("licence-bidisciplinaire")) {echo('active');} ?>">
-    	<a href="?page=licence-bidisciplinaire">Licence bi-disciplinaire</a>
+    	<a href="?page=licence-bidisciplinaire">Licence bi-disciplinaire</a> <span class="divider">/</span>
+    </li>
+    <li class="<?php if(is_active("option-nonspecialiste")) {echo('active');} ?>">
+    	<a href="?page=option-nonspecialiste">Options non spécialistes</a>
     </li>
 </ul>

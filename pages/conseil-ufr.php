@@ -67,13 +67,13 @@ Le Conseil prépare et vote le budget du département qu’il soumet au Conseil 
   <dt>Directeur :</dt>
   <dd>
     <ul>
-      <li>MANGE Christian</li>
+      <li>GALBOIS Estelle</li>
     </ul>
   </dd>
   <dt>Directrice Adjointe :</dt>
   <dd>
     <ul>
-      <li>GALBOIS Estelle</li>
+      <li>BOUBE Emmanuelle</li>
     </ul>
   </dd>
 </dl>

@@ -3,6 +3,7 @@
 ?>
 
 <h1>La Licence 3</h1>
+
 <p>
   La troisième année permet d’approfondir les connaissances et les compétences acquises aux cours des deux 
   premières années de la licence.
@@ -21,14 +22,24 @@ la Recherche et le projet personnel de l’étudiant.
 <p>
     <a href="pdf/plaquette-licence-HA.pdf">Télécharger la plaquette de présentation.</a>
 </p>
+<p>
 <h2>Spécialité Histoire de l'Art</h2>
+</p>
+<p>
+  <img src="img/hamilton-img-licence3haa.jpg" width="300" height="172" class="left" />
+</p>
 <p>
   <a href="pdf/Emploi-du-temps-L3-Hist-Art-2011-2012.pdf">Accéder à l'emploi du temps de la Licence 3 Histoire de l'art.</a>
 </p>
 <p>
    <a href="pdf/MODALITES-DE-CONTROLE-2011-2012-L3-HA.pdf">Accéder aux modalités de contrôle des connaissances.</a>
 </p>
+<p>
 <h2>Spécialité Archéologie</h2>
+</p>
+<p>
+<img src="img/fouillesniel-img-licence3.jpg" width="250" height="153" class="left" />
+</p>
 <p>
     <a href="pdf/Emploi-du-temps-L3-Archeo-2011-2012.pdf">Accéder à l'emploi du temps de la Licence 3 Archéologie.</a>
 </p>
